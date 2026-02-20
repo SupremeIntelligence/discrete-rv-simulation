@@ -11,7 +11,7 @@ This repository contains a Jupyter Notebook for simulating a discrete random var
 	- Plotting theoretical and empirical cumulative distribution functions (CDFs).
 
 ### File
-	- `discrete_rv_simulation.ipynb` — Jupyter Notebook with full code, explanations, and plots.
+- `discrete_rv_simulation_en.ipynb` — Jupyter Notebook with full code, explanations, and plots.
 
 ### How to run
   1. Install Python 3.11 or higher.
@@ -38,7 +38,7 @@ This repository contains a Jupyter Notebook for simulating a discrete random var
 - Построение графиков теоретической и эмпирической функции распределения (CDF).
 
 ### Файл
-- `discrete_rv_simulation.ipynb` — Jupyter Notebook с полным кодом, комментариями и графиками.
+- `discrete_rv_simulation_ru.ipynb` — Jupyter Notebook с полным кодом, комментариями и графиками.
 
 ### Как запустить
 1. Установить Python 3.11 или выше.
